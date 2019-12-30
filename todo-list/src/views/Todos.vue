@@ -1,5 +1,6 @@
 <template>
     <div class="todo">
+        <router-link to="/">Home</router-link>
         <ul class="todo__list">
             <li>To do</li>
         </ul>
